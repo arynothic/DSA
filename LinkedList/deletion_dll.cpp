@@ -16,6 +16,7 @@ struct Node{
         data=data1;
         next=nullptr;
         prev=nullptr;
+        
     }
 };
 
